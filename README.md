@@ -16,6 +16,7 @@ To mitigate this, these areas imposed longer work hours of over 6000 labour hour
 
 
 # DASHBOARD
+<a href="https://github.com/Cocoaman256/ConstructionCostOverrunAnalysis/blob/main/Screenshot%202026-02-07%20175045.png">Dashboard</a>
 
 # TOOLKIT USED
 Excel- Exploratory Data Analysis(EDA) and Data cleaning
